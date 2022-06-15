@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+
+.main{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.dropdown{
+  margin-top: 5%;
+}
+
+.amount{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5%;
+}
+
+#discountwithtax{
+  color:blue;
+  margin-top: 5%;
+}
+
+#discount{
+  color:green;
+  margin-top: 5%;
+}
